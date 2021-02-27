@@ -1,11 +1,5 @@
 window:
         decorations: none
-        position:
-                x: 0
-                y: 0
-        dimensions:
-                columns: 170
-                lines: 60
         padding:
                 x: 10
                 y: 10
@@ -44,9 +38,6 @@ schemes:
 
 colors: *gruvbox
 background_opacity: 0.5
-
-shell:
-        program: bash ~
 
 cursor:
         style: Beam
