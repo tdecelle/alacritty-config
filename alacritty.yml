@@ -6,6 +6,9 @@ window:
         startup_mode: Maximized
         dynamic_padding: false
 
+font:
+        size: 14.0
+
 schemes:
         gruvbox: &gruvbox
                 # Default colors
